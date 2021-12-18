@@ -1,0 +1,25 @@
+/* style.css */
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
+
+.menu {
+    background-color: red;
+    color: black;
+    text-align: center;
+}
+
+.recipe {
+    color: orange;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
